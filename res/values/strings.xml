@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Connext Video Demo</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="Settings">Settings</string>
+    <string name="publish">Pub</string>
+    <string name="subscribe">Sub</string>
+    
+</resources>

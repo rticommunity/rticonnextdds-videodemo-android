@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1786378046/GSTREAMER_SDK_ROOT_ANDROID/delimiter=;
+environment/project/com.android.toolchain.gcc.1786378046/GSTREAMER_SDK_ROOT_ANDROID/operation=replace
+environment/project/com.android.toolchain.gcc.1786378046/GSTREAMER_SDK_ROOT_ANDROID/value=C\:\\Apps\\gstreamer\\android-1.4.0-release
+environment/project/com.android.toolchain.gcc.1786378046/NDDSHOME/delimiter=;
+environment/project/com.android.toolchain.gcc.1786378046/NDDSHOME/operation=replace
+environment/project/com.android.toolchain.gcc.1786378046/NDDSHOME/value=C\:\\Rti\\connext.5.1\\ndds.5.1.0
+environment/project/com.android.toolchain.gcc.1786378046/append=true
+environment/project/com.android.toolchain.gcc.1786378046/appendContributed=true
